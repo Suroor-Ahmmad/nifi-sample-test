@@ -1,5 +1,5 @@
 flows:
-  97d74291-133c-41ac-a883-7584f76dc1d5: {ver: 1, file: NewFlow.snapshot, comments: v1,
-    author: anonymous, created: 1695708276926, flowName: NewFlow, flowDesc: ''}
+  97d74291-133c-41ac-a883-7584f76dc1d5: {ver: 2, file: NewFlow.snapshot, comments: v2,
+    author: anonymous, created: 1695708590028, flowName: NewFlow, flowDesc: ''}
 layoutVer: 1
 bucketId: e2599b65-571c-40c4-9e9b-16d91ef1feba
